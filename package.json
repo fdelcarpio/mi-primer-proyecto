@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/fdelcarpio/mi-primer-proyecto#readme",
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.88.0",
     "dotenv": "^17.4.1"
   }
 }
